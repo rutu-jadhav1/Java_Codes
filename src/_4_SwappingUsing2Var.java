@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SwappingUsing2Var {
+public class _4_SwappingUsing2Var {
     public static void main(String[] args){
         System.out.print("Enter first number :");
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SwapingUsing3Var {
+public class _3_SwapingUsing3Var {
     public static void main(String [] args){
         System.out.print("Enter the first number : ");
         Scanner sc = new Scanner(System.in);
